@@ -45,7 +45,7 @@ This isn’t a sandbox. It’s a **public lab notebook** documenting my growth i
 ## 🤝 Connect
 - 📘 [LinkedIn](#)  
 - 🧾 [Notion Portfolio](#)  
-- 📧 [Email](#)  
+- 📧 [adekunleadesina100@gmail.com](#)  
 
 ---
 ⚡ **GhostSec Labs** — *Where cyber defense meets creative offense.*
